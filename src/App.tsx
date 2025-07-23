@@ -1,5 +1,3 @@
-import Waves from "./Waves/Waves.tsx";
-import {Animator, FadeIn, ScrollContainer, ScrollPage, Zoom} from "react-scroll-motion"
 import "./App.css"
 
 export default function App() {
@@ -8,9 +6,9 @@ export default function App() {
             <div id={"container"}>
                 <div id={"introducer"}>
                     <div id={"name"}>
-                        <p>My name is</p>
-                        <h1>DOMENIC DVOJMOČ</h1>
-                        <ul>
+                        <p id={"myName"}>My name is</p>
+                        <h1 id={"fullName"}>DOMENIC DVOJMOČ</h1>
+                        <ul id={"connections"}>
                             <a href={"https://github.com/"}>Github</a>
                             <a href={"https://Contact.com/"}>Email</a>
                             <a href={"https://Contact.com/"}>LinkedIn</a>
@@ -18,8 +16,9 @@ export default function App() {
                     </div>
                 </div>
                 <div id={"aspects"}>
+                    <p id={"workedOn"}>I've worked on the following Projects:</p>
                     <div id={"projects"}>
-                        <p>I've worked on the following Projects:</p>
+
                     </div>
                 </div>
 

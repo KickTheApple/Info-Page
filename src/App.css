@@ -47,15 +47,10 @@ body, html {
 }
 
 p {
-  padding: 0px 10px 0px;
-  margin: 0;
 
-  opacity: 0;
-  animation: fade-slide-in 1s ease forwards;
-  animation-delay: 1s;
 }
 
-h1 {
+#fullName {
   font-size: 3rem;
   text-align: center;
   margin: 0;
@@ -77,8 +72,29 @@ h1 {
   animation: fade-slide-in 1s ease forwards;
 }
 
+#myName {
+  padding: 0px 10px 0px;
+  margin: 0;
+
+  opacity: 0;
+  animation: fade-slide-in 1s ease forwards;
+  animation-delay: 1s;
+}
+
+#workedOn {
+  margin: 0;
+
+  opacity: 0;
+  animation: fade-slide-in 1s ease forwards;
+  animation-delay: 3s;
+}
+
 ul {
   margin: 0;
+
+  opacity: 0;
+  animation: fade-slide-in 1s ease forwards;
+  animation-delay: 2s;
 }
 
 a {

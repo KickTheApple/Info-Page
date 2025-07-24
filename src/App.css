@@ -97,6 +97,17 @@ ul {
   animation-delay: 2s;
 }
 
+#proj {
+  padding: 10px 10px 0;
+  margin: 10px;
+  border-style: solid;
+  border-color: #fff;
+
+  opacity: 0;
+  animation: fade-slide-in 1s ease forwards;
+  animation-delay: 3s;
+}
+
 a {
   color: #fff;
   margin: 10px 10px 10px 0px;

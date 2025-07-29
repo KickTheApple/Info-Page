@@ -9,8 +9,8 @@ export default function App() {
                         <p id={"myName"}>My name is</p>
                         <h1 id={"fullName"}>DOMENIC DVOJMOČ</h1>
                         <ul id={"connections"}>
-                            <a href={"https://github.com/"}>Github</a>
-                            <a href={"https://Contact.com/"}>Email</a>
+                            <a href={"https://github.com/KickTheApple"}>Github</a>
+                            <a href={"https://domenic.dvojmoc@gmail.com"}>Email</a>
                             <a href={"https://Contact.com/"}>LinkedIn</a>
                         </ul>
                     </div>

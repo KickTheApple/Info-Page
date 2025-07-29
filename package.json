@@ -2,12 +2,12 @@
   "name": "lander",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://KickTheApple.github.io/Info-Page",
+  "homepage": "https://kicktheapple.github.io/Info-Page/",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d src",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"

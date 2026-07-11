@@ -11,7 +11,7 @@ export default function App() {
                         <ul id={"connections"}>
                             <a href={"https://github.com/KickTheApple"}>Github</a>
                             <a href={"https://domenic.dvojmoc@gmail.com"}>Email</a>
-                            <a href={"https://Contact.com/"}>LinkedIn</a>
+                            <a href={"https://si.linkedin.com/in/domenic-dvojmo%C4%8D-2863a5380"}>LinkedIn</a>
                         </ul>
                     </div>
                 </div>
@@ -30,7 +30,7 @@ export default function App() {
                         <div id={"proj"}><a href={"https://github.com/KickTheApple/CompilerPINS"}>CompilerPINS</a><p>A compiler written in Java for an imaginary programming language called PINS</p></div>
                     </div>
                     <div id={"projects"}>
-                        <div id={"proj"}><a href={"https://github.com/KickTheApple/STM-Mini_Games"}>STM32-Games</a><p>A collection of small games written for the STM32 Embedded system using C with HAL</p></div>
+                        <div id={"proj"}><a href={"https://github.com/KickTheApple/STM-Mini-Games"}>STM32-Games</a><p>A collection of small games written for the STM32 Embedded system using C with HAL</p></div>
                     </div>
                     <div id={"projects"}>
                         <div id={"proj"}><a href={"https://github.com/KickTheApple/Sorting-Algorithms-in-Java"}>Sorting-Algorithms-in-Java</a><p>A project comrpised of many different sorting algorithms.</p></div>
